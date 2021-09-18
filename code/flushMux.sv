@@ -1,0 +1,3 @@
+module flushMux();
+
+endmodule
